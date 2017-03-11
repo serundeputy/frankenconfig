@@ -82,6 +82,11 @@
         "access own webform submissions",
         "edit own webform submissions",
         "delete own webform submissions",
-        "edit webform components"
+        "edit webform components",
+        "create gff content",
+        "edit own gff content",
+        "edit any gff content",
+        "delete own gff content",
+        "delete any gff content"
     ]
 }
