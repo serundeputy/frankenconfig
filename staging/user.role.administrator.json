@@ -87,6 +87,13 @@
         "edit own gff content",
         "edit any gff content",
         "delete own gff content",
-        "delete any gff content"
+        "delete any gff content",
+        "administer services",
+        "get any binary files",
+        "get own binary files",
+        "save file information",
+        "get a system variable",
+        "set a system variable",
+        "perform unlimited index queries"
     ]
 }
